@@ -1,8 +1,10 @@
-- 👋 Hi, I’m @Vasanth Dhanagopal
-- 👀 I’m interested in data analysis
-- 🌱 I’m currently learning SQL, Tableau
-- 💞️ I’m looking to collaborate on Data Science
-- 📫 How to reach me @dvasanthaero@gmail.com
+* Hi, I am Vasanth Dhanagopal an ethusiastic data analyst free lancer.
+* knowledged with Data Science, Machine Learning, and Deep Learning with Python.
+* Skilled with Data Visualization using Tableau Program.
+* Proficient in using business metrics for data-driven companies.
+* Learning Data analytics using Amazon Web Services (AWS).
+* Reach me @dvasanthaero@gmail.com
+
 
 <!---
 Vasanth03/Vasanth03 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
