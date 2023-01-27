@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Vasanth03
+- 👋 Hi, I’m @Vasanth Dhanagopal
 - 👀 I’m interested in data analysis
 - 🌱 I’m currently learning SQL, Tableau
 - 💞️ I’m looking to collaborate on Data Science
