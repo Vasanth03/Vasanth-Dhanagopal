@@ -1,6 +1,6 @@
-* Hi, I am Vasanth Dhanagopal an ethusiastic data analyst free lancer.
+* Hi, I am Vasanth Dhanagopal an ethusiastic Data Scientist (free lancer).
 * knowledged with Data Science, Machine Learning, and Deep Learning with Python.
-* Skilled with Data Visualization using Tableau Program.
+* Skilled with Data Visualization using Tableau.
 * Proficient in using business metrics for data-driven companies.
 * Learning Data analytics using Amazon Web Services (AWS).
 * Reach me @dvasanthaero@gmail.com
